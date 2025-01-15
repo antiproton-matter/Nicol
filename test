@@ -1,0 +1,2 @@
+systeminfo  >> C:\test.txt
+ipconfig /all >> C:\test.txt
